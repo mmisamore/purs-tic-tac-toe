@@ -2,6 +2,7 @@
 ## Based upon https://kritzcreek.github.io/tutorial/2015/10/07/playing-tic-tac-toe-with-purescript-signal/ 
 
 To use:
+
 1. bower install
 2. npm install
 3. pulp build
